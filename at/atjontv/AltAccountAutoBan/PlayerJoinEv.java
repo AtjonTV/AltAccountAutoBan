@@ -21,8 +21,8 @@ public class PlayerJoinEv implements Listener{
 		Player p = PJE.getPlayer();
 		String name = p.getName();
 		
-		if(DataBaseCheck.userInDataBase_A(name) || DataBaseCheck.userInDataBase_B(name) || DataBaseCheck.userInDataBase_C(name)){
-			Bukkit.getServer().dispatchCommand(Bukkit.getConsoleSender(), "minecraft:ban "+name+" Alt-Account [Banned throug AltAccountAutoBan by AtjonTV]");
+		if(DataBaseCheck.userInDataBase_A(name) || DataBaseCheck.userInDataBase_B(name) || DataBaseCheck.userInDataBase_C(name) || DataBaseCheck.userInDataBase_D(name)){
+			Bukkit.getServer().dispatchCommand(Bukkit.getConsoleSender(), "minecraft:ban "+name+" Alt-Account [Banned throug AAAB by AtjonTV]");
 		
 			
 			for(Player x : Bukkit.getOnlinePlayers()){
