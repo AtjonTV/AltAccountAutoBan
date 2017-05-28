@@ -8,7 +8,7 @@ The Plugin has no Commands.
 The Plugin has one Permission: "AAAB.admin"
 If a player has the permission, he will get an info when a player get's banned.
 
-[Version 1.6.X] It Connects to my Privat MySQL Server in wich are currently 155 Alt-Accounts registred, and i am constantly adding more.
+[Version 1.6.X] It Connects to my Privat MySQL Server in wich are currently 280 Alt-Accounts registred, and i am constantly adding more.
 
 Plugin Idea by AtjonTV
 Plugin Code by AtjonTV
