@@ -1,3 +1,9 @@
+
+# NEW VERSION INCOMING!
+## I am now working on a new Version of AAAB, so stay tuned.
+
+
+
 # AltAccountAutoBan
 This Plugin Auto Banns Alt-Accounts wich i got from mc-leaks.
 
