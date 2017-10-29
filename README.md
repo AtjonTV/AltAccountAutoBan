@@ -2,7 +2,9 @@
 # NEW VERSION INCOMING!
 ## I am now working on a new Version of AAAB, so stay tuned.
 
+I dont know why, but this project gets build with travis ..
 
+status: [![Build Status](https://travis-ci.org/AtjonTV/AltAccountAutoBan.svg?branch=master)](https://travis-ci.org/AtjonTV/AltAccountAutoBan)
 
 # AltAccountAutoBan
 This Plugin Auto Banns Alt-Accounts wich i got from mc-leaks.
